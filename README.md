@@ -1,8 +1,11 @@
 # ColorizePHPParser
 Minecraft color parser for PHP
 
+![alt text](https://raw.githubusercontent.com/febryars33/ColorizePHPParser/main/Screenshot.png)
+
 - Support (&) and (§)
 - Support Unicode Characters
+- Support Mix & / § on string function
 
 ## How to use
 
