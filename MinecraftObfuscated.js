@@ -20,7 +20,7 @@ document.querySelectorAll( '.mc-k' ).forEach( element => {
 
         element.innerText = newString;
 
-    }, 75 )
+    }, 25 )
 
 } )
 

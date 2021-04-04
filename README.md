@@ -1,7 +1,8 @@
 # ColorizePHPParser
 Minecraft color parser for PHP
 
-Support (&) and (§)
+- Support (&) and (§)
+- Support Unicode Characters
 
 ## How to use
 
@@ -18,18 +19,19 @@ Here's some code for the obfuscated text (§k):
 ```
 
 ## PHP Section
-Using §
+Using § / &
 ```php
 <?php
   echo mccolors('§6Hello World');
 ?>
 ```
 
-Using &
+Or you can mix it with & or §
 ```php
 <?php
-  echo mccolors('&6Hello World', TRUE);
+  echo mccolors('§6Hello &8World');
 ?>
 ```
+
 
 https://gist.github.com/Minecrell/755e53aced83ab48513f
