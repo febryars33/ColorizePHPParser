@@ -36,5 +36,6 @@ Or you can mix it with & or §
 ?>
 ```
 
-
-https://gist.github.com/Minecrell/755e53aced83ab48513f
+Copyright Author
+ - Original Source Code ?? I forgot. I found this on the internet
+ - https://gist.github.com/Minecrell/755e53aced83ab48513f (JavaScript & CSS)
